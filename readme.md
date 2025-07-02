@@ -2,8 +2,6 @@
 
 A Retrieval-Augmented Generation (RAG) chatbot built using **LangChain**, **FAISS**, and **Chainlit**. Upload any PDF (e.g., your resume), and ask natural language questions to extract relevant info using **Google Gemini** LLM.
 
-![Demo Screenshot](assets/demo-screenshot.png)
-
 ---
 
 ## 🚀 Features

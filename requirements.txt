@@ -1,0 +1,9 @@
+chainlit
+langchain
+langchain-community 
+pypdf 
+langchain-text-splitters
+langchain_huggingface
+sentence_transformers
+faiss_cpu
+langchain-google-genai
